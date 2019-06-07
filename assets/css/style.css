@@ -1,0 +1,13 @@
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position:absolute;
+  right:0;
+  bottom:0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+img {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
